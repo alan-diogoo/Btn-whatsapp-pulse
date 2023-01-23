@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Botao</title>
     <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-    <style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style> 
         .pulse i{
             color:#fff;
             font-size:3rem;
@@ -57,9 +58,9 @@
         </style>
 </head>
 <body>
-    <a class="pulse" href="https://api.whatsapp.com/send?phone=5513992108007" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+    <a class="pulse" href="https://api.whatsapp.com/send?phone=55 (numero mais o DDD aqui tudo junto. exemplo= 551900000000)" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
     z-index:1000;" target="_blank">
-  <i class="fa-brands fa-whatsapp"></i>
+ <i class="fa-brands fa-whatsapp"></i>
   </a>
 </body>
 </html>
