@@ -20,6 +20,13 @@ Um botão de comunicação rápida via WhatsApp com animação pulsante em CSS, 
 2. Você verá um botão flutuante no canto da tela com uma animação pulsante.
 3. Clique no botão para iniciar uma conversa no WhatsApp com o número pré-definido.
 4. Para personalizar o número do WhatsApp, abra o arquivo `index.html` no seu editor de código favorito e localize a seção `href` do link do botão. Substitua o número no link pelo número desejado.
+## Contribuição
+
+Contribuições são bem-vindas! Se você quiser melhorar este projeto, faça um fork do repositório, faça as alterações e envie um pull request. Ficarei feliz em avaliar e incorporar suas contribuições.
+
+## Autor
+
+Alan Diogo.
 
 ## Exemplo de Uso
 
@@ -29,10 +36,4 @@ Um botão de comunicação rápida via WhatsApp com animação pulsante em CSS, 
 </a>
 
 
-## Contribuição
 
-Contribuições são bem-vindas! Se você quiser melhorar este projeto, faça um fork do repositório, faça as alterações e envie um pull request. Ficarei feliz em avaliar e incorporar suas contribuições.
-
-## Autor
-
-Alan Diogo.
